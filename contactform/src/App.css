@@ -68,3 +68,12 @@
   border: 1px solid red;
   background-color: #ffffff;
 }
+
+.inputs{
+  width: 35%;
+  height: 25px;
+  border-radius: 15px;
+  border: 1px solid red;
+  background-color: red;
+  color: #ffffff;
+}
